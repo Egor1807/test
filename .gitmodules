@@ -1,3 +1,6 @@
 [submodule "test-vanya"]
 	path = test-vanya
 	url = https://github.com/Egor1807/test-vanya
+[submodule "m3107-m3108"]
+	path = m3107-m3108
+	url = https://github.com/Egor1807/m3107-m3108
