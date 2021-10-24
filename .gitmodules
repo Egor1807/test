@@ -1,0 +1,3 @@
+[submodule "test-vanya"]
+	path = test-vanya
+	url = https://github.com/Egor1807/test-vanya
